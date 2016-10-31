@@ -1,0 +1,1 @@
+grape 200pear 20apple 10kumquat 30strawberry 20blackberry 30

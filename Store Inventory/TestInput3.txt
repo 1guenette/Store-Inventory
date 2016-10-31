@@ -1,0 +1,1 @@
+pear 40 3apple 50 5banana 20 9grape 100 8papaya 100 2lemon 100 4orange 100 1
